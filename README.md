@@ -1,2 +1,1 @@
-#!/bin/bash
-This repository documents some System engineering activities
+This repo contains system engineering activities
